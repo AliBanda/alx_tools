@@ -1,1 +1,1 @@
-my first readme.Tips
+my first readme
